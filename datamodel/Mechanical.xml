@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<department value="Mechanical">
+
+
+<yos value="1">
+		<sec value="1" stream="-">
+			<advisor phone="">unknown</advisor>
+			<rep phone="">unknown</rep>
+			<day value="monday">
+				<period value="1">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="2">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="3">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+			</day>
+			<day value="tuesday">
+				<period value="1">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="2">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="3">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+			</day>
+			<day value="wednesday">
+				<period value="1">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="2">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="3">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+
+			</day>
+			<day value="thursday">
+				<period value="1">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="2">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="3">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+
+			</day>
+			<day value="friday">
+				<period value="1">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="2">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="3">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+
+			</day>
+			<day value="saturday">
+				<period value="1">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="2">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="3">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+
+			</day>
+			<day value="sunday">
+				<period value="1">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="2">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+				<period value="3">
+					<cName>Free</cName>
+					<iName>Free</iName>
+					<room>Free</room>
+				</period>
+		
+			</day>
+		</sec><!-- year 1 sec 1-->
+	</yos></department>

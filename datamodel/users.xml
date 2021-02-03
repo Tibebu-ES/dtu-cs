@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<!-- user one-->
+	
+	
+
+	<!-- sys user -->
+	<user type="1">
+		<uName>admin</uName><pWord>377740art</pWord>	
+	</user>
+	
+<user type="2" department="ECE"><uName>biks</uName><pWord>12345678</pWord></user><user type="2" department="Electro-Mechanical"><uName>ante</uName><pWord>12345678</pWord></user><user type="2" department="ECE"><uName>efi</uName><pWord>12345678</pWord></user></users>

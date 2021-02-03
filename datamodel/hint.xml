@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hint>
+	
+
+<department value="ECE">
+		<instructors>
+			
+		<instructor title="Mr.">Yoseph B.</instructor><instructor title="Mr.">Tibebu E.</instructor><instructor title="Mr.">Adisu W</instructor><instructor title="Mr.">Biks A</instructor><instructor title="Ms.">Bizuye D.</instructor><instructor title="Mr.">Tesfaye Z</instructor></instructors>
+		<courses>
+		
+		<course yos="1">Fundamentals of Electrical Engineering</course><course yos="2">Electromagnetic Fields</course><course yos="1">Applied Mathematics II</course><course yos="1">Engineering Mechanics-II</course><course yos="1">Logic  </course><course yos="2">Signals and System Analysis</course></courses>
+</department><department value="Mechanical">
+		<instructors>
+			
+		</instructors>
+		<courses>
+		
+		</courses>
+</department><department value="Civil">
+		<instructors>
+			
+		</instructors>
+		<courses>
+		
+		</courses>
+</department><department value="Electro-Mechanical">
+		<instructors>
+			
+		<instructor title="Mr.">Gebeya</instructor><instructor title="Mr.">Anteneh Tadese</instructor><instructor title="Mr.">Natnael Mekuriya</instructor><instructor title="Mr.">Abriham Ayele</instructor><instructor title="Mr.">Assefa</instructor><instructor title="Mr.">Seidu</instructor></instructors>
+		<courses>
+		
+		<course yos="1">Dynamics</course><course yos="1">Applied Mathematics 2</course><course yos="1">Communicative Skill</course><course yos="1">Strength of Materials</course></courses>
+</department><department value="Chemical">
+		<instructors>
+			
+		</instructors>
+		<courses>
+		
+		</courses>
+</department><department value="IT">
+		<instructors>
+			
+		</instructors>
+		<courses>
+		
+		</courses>
+</department><department value="Software">
+		<instructors>
+			
+		</instructors>
+		<courses>
+		
+		</courses>
+</department></hint>
